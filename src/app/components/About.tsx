@@ -38,7 +38,7 @@ const About = () => {
           className="flex-1">
             <h2 className="h2 text-accent">About me.</h2>
             <h3 className="h3 mb-4">
-              I'm a Freelancer Front-end Develpoper with over 5 years of
+              I&apos;m a Freelancer Front-end Develpoper with over 5 years of
               experience.
             </h3>
             <p>
